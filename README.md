@@ -4,7 +4,7 @@
 
 ### Правила оценивания
 
-[Презентация с оцениванием](TODO)
+[Презентация с оцениванием](https://github.com/MSU-ML-COURSE/ML-COURSE-22-23/blob/main/files/Структура курса-3.pdf)
 
 ### Материалы
  * [Первый поток (В.В. Китов)](https://github.com/MSU-ML-COURSE/ML-COURSE-22-23/blob/main/1_stream.md)
