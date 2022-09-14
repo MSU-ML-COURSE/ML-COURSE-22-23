@@ -14,7 +14,9 @@
 Связаться с нами можно по почте ml.cmc@mail.ru
 
 ### Дополнительные материалы
-[Работа с jupyter notebook и python](https://youtube.com/playlist?list=PLzdAwQrglFyIkkvIlUeo_xX08WvKM6L0-)
+* [Работа с jupyter notebook и python](https://youtube.com/playlist?list=PLzdAwQrglFyIkkvIlUeo_xX08WvKM6L0-)
+* [Туториал по Google Colab](https://github.com/MSU-ML-COURSE/ML-COURSE-22-23/blob/main/files/Google%20Colab.pdf)
+* [Туториал по видам заданий](https://github.com/MSU-ML-COURSE/ML-COURSE-22-23/blob/main/files/%D0%A2%D0%B8%D0%BF%D1%8B%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B8%CC%86.pdf)
 
 --------------------------------
 
