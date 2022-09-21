@@ -8,4 +8,5 @@
 | Дата | Номер | Тема | Презентация | Практическое задание |
 | :---: | :---: | --- | --- | --- |
 | 06.09.2022 | 1 | Основные понятия и примеры прикладных задач | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-22-23/blob/main/slides/msu22-Intro.pdf) | ¯\\\_(ツ)\_/¯ |
-| 13.09.2022 | 2 | Метрические методы классификации и регрессии | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-22-23/blob/main/slides/msu22-metric.pdf) | ¯\\\_(ツ)\_/¯ |
+| 13.09.2022 | 2 | Метрические методы классификации и регрессии | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-22-23/blob/main/slides/msu22-metric.pdf) | Прак.1 Основы Python |
+| 20.09.2022 | 3 | Линейная классификация и стохастический градиент | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-22-23/blob/main/slides/msu22-lin-sg.pdf) | ¯\\\_(ツ)\_/¯ |
