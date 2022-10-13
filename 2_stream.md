@@ -12,5 +12,5 @@
 | 20.09.2022 | 3 | Линейная классификация и стохастический градиент | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-22-23/blob/main/slides/msu22-lin-sg.pdf) | Numpy, pandas, matplotlib (22.09.2022) |
 | 27.09.2022 | 4 | Постановки оптимизационных задач машинного обучения | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-22-23/blob/main/slides/msu22-opt-survey.pdf) | Тест №1 (30.09.2022) |
 | 04.10.2022 | 5 | Многомерная линейная регрессия и метод главных компонент | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-22-23/blob/main/slides/msu22-lin-regr.pdf) | ¯\\\_(ツ)\_/¯ |
-| 11.10.2022 | 6 | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
+| 11.10.2022 | 6 | Нелинейная регрессия | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
 
