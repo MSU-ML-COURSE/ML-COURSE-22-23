@@ -13,5 +13,7 @@
 | 03.10.2022 | 5 | Линейные методы (часть 1): линейная регрессия | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2021autumn/ML051_linear_202115a______linreg.pdf) | ¯\\\_(ツ)\_/¯ |  ¯\\\_(ツ)\_/¯ |  
 | 10.10.2022 | 6 | <ul><li>Оптимизация в машинном обучении</li><li>логистическая регрессия</li></ul> | <ul><li>[Слайды](https://github.com/Dyakonov/MSUML/blob/main/2021autumn/ML022_optimization_202105a______________.pdf)</li><li>[Слайды](https://github.com/Dyakonov/MSUML/blob/main/2021autumn/ML051_linear_202116a______logreg.pdf)</li></ul> | ¯\\\_(ツ)\_/¯ | kNN (13.10.2022) |  
 | 17.10.2022 | 7 | Контроль качества и выбор модели | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2021autumn/ML040_control_202110a_______.pdf) | [Ноутбук](https://github.com/Dyakonov/MSUML/blob/main/2021autumn/MMO_lec6_MS.ipynb) |  ¯\\\_(ツ)\_/¯ |  
-| 24.10.2022 | 8 | <ul><li>Линейные методы (часть 2)</li><li>Суррогатные функции ошибки + SVM</li></ul> | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2021autumn/ML052_SVM_202112a______.pdf) | ¯\\\_(ツ)\_/¯ |  ¯\\\_(ツ)\_/¯ |  
+| 24.10.2022 | 8 | <ul><li>Линейные методы (часть 2)</li><li>Суррогатные функции ошибки + SVM</li></ul> | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2021autumn/ML052_SVM_202112a______.pdf) | ¯\\\_(ツ)\_/¯ |  <ul><li>Linear Models (28.10.22)</li><li>Тест №2 (28.10.22)</li></ul>  |
+| 31.10.2022 | 9 | Нелинейные методы, трюки с ядрами | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2021autumn/ML061_nonlinear_202113a_________.pdf) |  ¯\\\_(ツ)\_/¯ |  ¯\\\_(ツ)\_/¯ |  
+| 07.11.2022 | 10 | Сложность алгоритмов, переобучение, смещение и разброс | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2021autumn/ML081_complexity_202106a.pdf) |  ¯\\\_(ツ)\_/¯ |  ¯\\\_(ツ)\_/¯ |  
 
