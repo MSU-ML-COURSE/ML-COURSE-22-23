@@ -14,5 +14,8 @@
 | 03.10.2022 | 5 | <ul><li>Стохастический градиентный спуск</li><li>Линейная классификация</li></ul> | <ul><li>[Слайды](https://github.com/victorkitov/ML/blob/main/035-Stochastic%20gradient%20descent.pdf)</li><li>[Слайды](https://github.com/victorkitov/ML/blob/main/040-Linear%20classification.pdf)</li></ul> | ¯\\\_(ツ)\_/¯ |
 | 10.10.2022 | 6 | Продолжение линейной классификации | [Слайды](https://github.com/victorkitov/ML/blob/main/040-Linear%20classification.pdf) |  kNN (13.10.2022) |
 | 17.10.2022 | 7 | Оценивание классификаторов. Контроль качества и выбор модели| [Слайды](https://github.com/victorkitov/ML/blob/main/050-Classifier%20evaluation.pdf) | ¯\\\_(ツ)\_/¯ |
-| 24.10.2022 | 8 | Метод опорных векторов | [Слайды](https://github.com/victorkitov/ML/blob/main/060-Support%20vector%20machines.pdf) | ¯\\\_(ツ)\_/¯ |
+| 24.10.2022 | 8 | Метод опорных векторов | [Слайды](https://github.com/victorkitov/ML/blob/main/060-Support%20vector%20machines.pdf) | <ul><li>Linear Models (28.10.22)</li><li>Тест №2 (28.10.22)</li></ul> |
+| 31.10.2022 | 9 |Обобщения методов через ядра Мерсера | <ul><li>[Kernel trick](https://github.com/victorkitov/ML/blob/main/070-Kernel%20trick.pdf)</li><li>[Оптимизационная задача SVM (неразделимый случай)](https://github.com/victorkitov/ML/blob/main/070-Optimization%20task%20for%20SVM%20-%20non-separable.pdf)</li><li>[Оптимизационная задача для ядра ridge regression](https://github.com/victorkitov/ML/blob/main/070-Optimization%20task%20for%20kernel%20ridge%20regression.pdf)</li></ul> | ¯\\\_(ツ)\_/¯ |
+| 07.11.2022 | 10 | Байесовское решающее правило. Примеры генеративных моделей. Оценивание плотностей распределения KDE | <ul><li>[Байесовское решающее правило](https://github.com/victorkitov/ML/blob/main/090-Bayes%20decision%20rule.pdf)</li><li>[KDE](https://github.com/victorkitov/ML/blob/main/080-Kernel%20density%20estimation.pdf)</li></ul> | ¯\\\_(ツ)\_/¯ |
+
 
