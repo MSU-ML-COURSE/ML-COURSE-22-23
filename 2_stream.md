@@ -14,4 +14,7 @@
 | 04.10.2022 | 5 | Многомерная линейная регрессия и метод главных компонент | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-22-23/blob/main/slides/msu22-lin-regr.pdf) | ¯\\\_(ツ)\_/¯ |
 | 11.10.2022 | 6 | Нелинейная регрессия | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-22-23/blob/main/slides/msu22-nonlin-regr.pdf) | kNN (13.10.2022) |
 | 18.10.2022 | 7 | Критерии качества и выбор моделей | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-22-23/blob/main/slides/msu22-qual.pdf) | ¯\\\_(ツ)\_/¯ |
+| 25.10.2022 | 8 | Метод опорных векторов | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-22-23/blob/main/slides/msu22-svm_.pdf) | <ul><li>Linear Models (28.10.22)</li><li>Тест №2 (28.10.22)</li></ul> |
+| 01.11.2022 | 9 | Оценивание плотностей распределения | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-22-23/blob/main/slides/msu22-density.pdf) | ¯\\\_(ツ)\_/¯ |
+| 08.11.2022 | 10 | Байесовская теория классификации | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
 
