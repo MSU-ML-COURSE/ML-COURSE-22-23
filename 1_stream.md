@@ -19,4 +19,4 @@
 | 07.11.2022 | 10 | Байесовское решающее правило. Примеры генеративных моделей. Оценивание плотностей распределения KDE | <ul><li>[Байесовское решающее правило](https://github.com/victorkitov/ML/blob/main/090-Bayes%20decision%20rule.pdf)</li><li>[KDE](https://github.com/victorkitov/ML/blob/main/080-Kernel%20density%20estimation.pdf)</li></ul> | ¯\\\_(ツ)\_/¯ |
 | 14.11.2022 | 11 | Решающие деревья | [Слайды](https://github.com/victorkitov/ML/blob/main/100-Decision%20trees.pdf) | ¯\\\_(ツ)\_/¯ |
 | 21.11.2022 | 12 | Композиции алгоритмов | [Слайды](https://github.com/victorkitov/ML/blob/main/110-Ensemble%20methods%2C%20bias-variance.pdf) | ¯\\\_(ツ)\_/¯ |
-| 28.11.2022 | 12 | Бустинг | [Слайды](https://github.com/victorkitov/ML/blob/main/120-Boosting.pdf) | ¯\\\_(ツ)\_/¯ |
+| 28.11.2022 | 13 | Бустинг | [Слайды](https://github.com/victorkitov/ML/blob/main/120-Boosting.pdf) | ¯\\\_(ツ)\_/¯ |
