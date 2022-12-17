@@ -21,6 +21,7 @@
 | 21.11.2022 | 12 | Композиции алгоритмов | [Слайды](https://github.com/victorkitov/ML/blob/main/110-Ensemble%20methods%2C%20bias-variance.pdf) | kNN (25.11.2022) |
 | 28.11.2022 | 13 | Бустинг | [Слайды](https://github.com/victorkitov/ML/blob/main/120-Boosting.pdf) | ¯\\\_(ツ)\_/¯ |
 | 05.12.2022 | 14 | Отбор признаков | [Слайды](https://github.com/victorkitov/ML/blob/main/130-Feature%20selection.pdf) | ¯\\\_(ツ)\_/¯ |
+| 12.12.2022 | 15 | Метод главных компонент | [Слайды]([https://github.com/victorkitov/ML/blob/main/130-Feature%20selection.pdf](https://github.com/victorkitov/ML/blob/main/140-PCA.pdf) | ¯\\\_(ツ)\_/¯ |
 
 
 
