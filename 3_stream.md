@@ -17,6 +17,8 @@
 | 31.10.2022 | 9 | Нелинейные методы, трюки с ядрами | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2021autumn/ML061_nonlinear_202113a_________.pdf) |  ¯\\\_(ツ)\_/¯ |  ¯\\\_(ツ)\_/¯ |  
 | 07.11.2022 | 10 | Сложность алгоритмов, переобучение, смещение и разброс | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2021autumn/ML081_complexity_202106a.pdf) |  ¯\\\_(ツ)\_/¯ |  Тест №3 (11.11.2022) |  
 | 14.11.2022 | 11 | Деревья решений | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2021autumn/ML062_tree_202113a.pdf) |  ¯\\\_(ツ)\_/¯ |  ¯\\\_(ツ)\_/¯ |  
-| 21.11.2022 | 12 | Ансамбли алгоритмов  | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2021autumn/PZAD051_ensemble_202102a____part1.pdf) |  ¯\\\_(ツ)\_/¯ |  kNN (25.11.2022) |  
+| 21.11.2022 | 12 | Ансамбли алгоритмов  | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2021autumn/PZAD051_ensemble_202102a____part1.pdf) |  ¯\\\_(ツ)\_/¯ |  SVM (25.11.2022)|  
 | 28.11.2022 | 13 | Случайные леса и AdaBoost  | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2021autumn/PZAD052_rf_202101a_____+adaboost.pdf) |  ¯\\\_(ツ)\_/¯ |  ¯\\\_(ツ)\_/¯ |  
-
+ 05.12.2022 | 14 | Градиентный бустинг  | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2021autumn/PZAD053_gradboosting_202106n___.pdf) |  ¯\\\_(ツ)\_/¯ |  ¯\\\_(ツ)\_/¯ |  
+  12.12.2022 | 15 | Отбор признаков  | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2021autumn/PZAD043_featureselection_202109___.pdf) |  ¯\\\_(ツ)\_/¯ |  ¯\\\_(ツ)\_/¯ |  
+  19.19.2022 | 16 | Функции ошибки / функционалы качества  | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2021autumn/PZAD031_err_regression_202012n____.pdf) |  ¯\\\_(ツ)\_/¯ |  ¯\\\_(ツ)\_/¯ |  
