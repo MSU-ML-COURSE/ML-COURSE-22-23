@@ -22,7 +22,7 @@
 | 28.11.2022 | 13 | Бустинг | [Слайды](https://github.com/victorkitov/ML/blob/main/120-Boosting.pdf) | ¯\\\_(ツ)\_/¯ |
 | 05.12.2022 | 14 | Отбор признаков | [Слайды](https://github.com/victorkitov/ML/blob/main/130-Feature%20selection.pdf) | ¯\\\_(ツ)\_/¯ |
 | 12.12.2022 | 15 | Метод главных компонент | [Слайды](https://github.com/victorkitov/ML/blob/main/140-PCA.pdf) | ¯\\\_(ツ)\_/¯ |
-
-
+| 13.02.2023 | 16 | Кластеризация K-представителями | [Слайды](https://github.com/victorkitov/ML/blob/main/160-Clustering%20K%20representatives.pdf) | ¯\\\_(ツ)\_/¯ |
+| 20.02.2023 | 17 | Продвинутая кластеризация | [Слайды](https://github.com/victorkitov/ML/blob/main/170-Advanced%20clustering.pdf) | ¯\\\_(ツ)\_/¯ |
 
 
