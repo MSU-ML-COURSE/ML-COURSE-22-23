@@ -3,6 +3,14 @@
 
 Материалы и видеолекции публикуются автором на его оригинальном сайте https://github.com/Dyakonov/MSUML. Для удобства ссылки продублированы и здесь.
 
+### Весна
+| Дата | Номер | Тема | Презентация |  Доп. материалы |  Практическое задание |
+| :---: | :---: | --- | --- | --- | --- |
+| 13.02.2023 | 17 | Кластеризация | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2022spring/ML091_cluster_202112n____.pdf) |  ¯\\\_(ツ)\_/¯ |  Деревья решений (10.02.2023) |
+| 20.02.2023 | 18 | EM | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2022spring/ML092_EM_202201a.pdf) |  ¯\\\_(ツ)\_/¯ |  ¯\\\_(ツ)\_/¯ |
+| 27.02.2023 | 19 | Качество кластеризации, ??? | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2022-23new/PZAD034_err_multirankcluster_202204____sm.pdf) |  ¯\\\_(ツ)\_/¯ |  ¯\\\_(ツ)\_/¯ |
+
+
 ### Осень
 | Дата | Номер | Тема | Презентация |  Доп. материалы |  Практическое задание |
 | :---: | :---: | --- | --- | --- | --- |
@@ -21,4 +29,4 @@
 | 28.11.2022 | 13 | Случайные леса и AdaBoost  | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2021autumn/PZAD052_rf_202101a_____+adaboost.pdf) |  ¯\\\_(ツ)\_/¯ |  ¯\\\_(ツ)\_/¯ |  
  05.12.2022 | 14 | Градиентный бустинг  | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2021autumn/PZAD053_gradboosting_202106n___.pdf) |  ¯\\\_(ツ)\_/¯ |  ¯\\\_(ツ)\_/¯ |  
   12.12.2022 | 15 | Отбор признаков  | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2021autumn/PZAD043_featureselection_202109___.pdf) |  ¯\\\_(ツ)\_/¯ |  ¯\\\_(ツ)\_/¯ |  
-  19.19.2022 | 16 | Функции ошибки / функционалы качества  | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2021autumn/PZAD031_err_regression_202012n____.pdf) |  ¯\\\_(ツ)\_/¯ |  ¯\\\_(ツ)\_/¯ |  
+  19.12.2022 | 16 | Функции ошибки / функционалы качества  | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2021autumn/PZAD031_err_regression_202012n____.pdf) |  ¯\\\_(ツ)\_/¯ |  ¯\\\_(ツ)\_/¯ |  
