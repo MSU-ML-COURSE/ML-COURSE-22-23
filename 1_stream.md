@@ -9,6 +9,9 @@
 | 13.02.2023 | 16 | Кластеризация K-представителями | [Слайды](https://github.com/victorkitov/ML/blob/main/160-Clustering%20K%20representatives.pdf) | Деревья решений (10.02.2023) |
 | 20.02.2023 | 17 | Продвинутая кластеризация | [Слайды](https://github.com/victorkitov/ML/blob/main/170-Advanced%20clustering.pdf) | ¯\\\_(ツ)\_/¯ |
 | 27.02.2023 | 18 | Ассоциативные правила | [Слайды](https://github.com/victorkitov/ML/blob/main/180-Association%20rules.pdf) | ¯\\\_(ツ)\_/¯ |
+| 27.02.2023 | 18 | Ассоциативные правила | [Слайды](https://github.com/victorkitov/ML/blob/main/180-Association%20rules.pdf) | ¯\\\_(ツ)\_/¯ |
+| 27.02.2023 | 18 | Ассоциативные правила | [Слайды](https://github.com/victorkitov/ML/blob/main/180-Association%20rules.pdf) | ¯\\\_(ツ)\_/¯ |
+| 27.02.2023 | 18 | Ассоциативные правила | [Слайды](https://github.com/victorkitov/ML/blob/main/180-Association%20rules.pdf) | ¯\\\_(ツ)\_/¯ |
 
 ### Осень
 
