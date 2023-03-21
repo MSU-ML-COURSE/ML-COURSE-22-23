@@ -9,9 +9,9 @@
 | 13.02.2023 | 16 | Кластеризация K-представителями | [Слайды](https://github.com/victorkitov/ML/blob/main/160-Clustering%20K%20representatives.pdf) | Деревья решений (10.02.2023) |
 | 20.02.2023 | 17 | Продвинутая кластеризация | [Слайды](https://github.com/victorkitov/ML/blob/main/170-Advanced%20clustering.pdf) | ¯\\\_(ツ)\_/¯ |
 | 27.02.2023 | 18 | Ассоциативные правила | [Слайды](https://github.com/victorkitov/ML/blob/main/180-Association%20rules.pdf) | ¯\\\_(ツ)\_/¯ |
-| 27.02.2023 | 18 | Ассоциативные правила | [Слайды](https://github.com/victorkitov/ML/blob/main/180-Association%20rules.pdf) | ¯\\\_(ツ)\_/¯ |
-| 27.02.2023 | 18 | Ассоциативные правила | [Слайды](https://github.com/victorkitov/ML/blob/main/180-Association%20rules.pdf) | ¯\\\_(ツ)\_/¯ |
-| 27.02.2023 | 18 | Ассоциативные правила | [Слайды](https://github.com/victorkitov/ML/blob/main/180-Association%20rules.pdf) | ¯\\\_(ツ)\_/¯ |
+| 06.02.2023 | 19 | Смеси распределений | [Слайды](https://github.com/victorkitov/ML/blob/main/190-Mixture%20density%20models.pdf) | ¯\\\_(ツ)\_/¯ |
+| 13.02.2023 | 20 | EM-алгоритм | [Слайды](https://github.com/victorkitov/ML/blob/main/200-EM%20algorithm.pdf) | ¯\\\_(ツ)\_/¯ |
+| 20.02.2023 | 21 | Обнаружение аномалий | [Слайды](https://github.com/victorkitov/ML/blob/main/210-Outlier%20detection.pdf) | ¯\\\_(ツ)\_/¯ |
 
 ### Осень
 
