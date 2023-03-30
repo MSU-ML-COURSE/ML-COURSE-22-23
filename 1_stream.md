@@ -12,6 +12,7 @@
 | 06.02.2023 | 19 | Смеси распределений | [Слайды](https://github.com/victorkitov/ML/blob/main/190-Mixture%20density%20models.pdf) | ¯\\\_(ツ)\_/¯ |
 | 13.02.2023 | 20 | EM-алгоритм | [Слайды](https://github.com/victorkitov/ML/blob/main/200-EM%20algorithm.pdf) | ¯\\\_(ツ)\_/¯ |
 | 20.02.2023 | 21 | Обнаружение аномалий | [Слайды](https://github.com/victorkitov/ML/blob/main/210-Outlier%20detection.pdf) | ¯\\\_(ツ)\_/¯ |
+| 27.02.2023 | 21 | Частичное обучение | [Слайды](https://github.com/victorkitov/ML/blob/main/220-Semi-supervised%20learning.pdf) | ¯\\\_(ツ)\_/¯ |
 
 ### Осень
 
