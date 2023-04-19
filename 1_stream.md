@@ -14,9 +14,9 @@
 | 20.03.2023 | 21 | Обнаружение аномалий | [Слайды](https://github.com/victorkitov/ML/blob/main/210-Outlier%20detection.pdf) | ¯\\\_(ツ)\_/¯ |
 | 27.03.2023 | 21 | Частичное обучение | [Слайды](https://github.com/victorkitov/ML/blob/main/220-Semi-supervised%20learning.pdf) | ¯\\\_(ツ)\_/¯ |
 | 03.04.2023 | 22 | Ранжирование (задача, признаки) | [Слайды](https://github.com/victorkitov/ML/blob/main/230-Learning%20to%20Rank.pdf) | ¯\\\_(ツ)\_/¯|
-| 10.04.2023 | 22 | Ранжирование (методы, меры качества) | [Слайды](https://github.com/victorkitov/ML/blob/main/230-Learning%20to%20Rank.pdf) ¯\\\_(ツ)\_/¯ |
-| 17.04.2023 | 22 | Сингулярное разложение. Рекомендательные системы 1 | [Слайды](https://github.com/victorkitov/ML/blob/main/240-Singular%20value%20decomposition.pdf) |
-| 24.04.2023 | 22 | Рекомендательные системы 2 | [Слайды](https://github.com/victorkitov/ML/blob/main/240-Singular%20value%20decomposition.pdf) |
+| 10.04.2023 | 22 | Ранжирование (методы, меры качества) | [Слайды](https://github.com/victorkitov/ML/blob/main/230-Learning%20to%20Rank.pdf) | ¯\\\_(ツ)\_/¯ |
+| 17.04.2023 | 22 | Сингулярное разложение. Рекомендательные системы 1 | [Слайды](https://github.com/victorkitov/ML/blob/main/240-Singular%20value%20decomposition.pdf) | ¯\\\_(ツ)\_/¯ |
+| 24.04.2023 | 22 | Рекомендательные системы 2 | [Слайды](https://github.com/victorkitov/ML/blob/main/240-Singular%20value%20decomposition.pdf) | ¯\\\_(ツ)\_/¯ |
 
 ### Осень
 
