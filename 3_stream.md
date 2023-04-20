@@ -8,7 +8,14 @@
 | :---: | :---: | --- | --- | --- | --- |
 | 13.02.2023 | 17 | Кластеризация | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2022spring/ML091_cluster_202112n____.pdf) |  ¯\\\_(ツ)\_/¯ |  Деревья решений (10.02.2023) |
 | 20.02.2023 | 18 | EM | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2022spring/ML092_EM_202201a.pdf) |  ¯\\\_(ツ)\_/¯ |  ¯\\\_(ツ)\_/¯ |
-| 27.02.2023 | 19 | Качество кластеризации, ??? | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2022-23new/PZAD034_err_multirankcluster_202204____sm.pdf) |  ¯\\\_(ツ)\_/¯ |  ¯\\\_(ツ)\_/¯ |
+| 27.02.2023 | 19 | <ul><li>Качество кластеризации</li><li>Байесовский подход</li></ul> | <ul><li>[Слайды](https://github.com/Dyakonov/MSUML/blob/main/2022-23new/PZAD034_err_multirankcluster_202204____sm.pdf)</li><li>[Слайды](https://github.com/Dyakonov/MSUML/blob/main/2022spring/ML082_bayes_202115n.pdf)</li></ul> |  ¯\\\_(ツ)\_/¯ |  Кластеризация (03.03.2023) |
+| 06.03.2023 | 20 | Байесовский подход| [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2022spring/ML082_bayes_202115n.pdf) | ¯\\\_(ツ)\_/¯ |¯\\\_(ツ)\_/¯ |
+| 13.03.2023 | 21 | Детектирование аномалий | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2022spring/ML094_anomaly_202201a.pdf) | ¯\\\_(ツ)\_/¯ |¯\\\_(ツ)\_/¯ |
+| 20.03.2023 | 22 | Специальные задачи машинного обучения: Многоклассовые, Обучение с частичной разметкой, Активное обучение | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2022spring/ML101_special_202202a___.pdf) | ¯\\\_(ツ)\_/¯ | Градиентный бустинг (24.03.2023) |
+| 27.03.2023 | 23 | Рекомендательные системы ч.1| [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2022spring/PZAD071_RecSys_202201a____.pdf) | ¯\\\_(ツ)\_/¯ |¯\\\_(ツ)\_/¯ |
+| 03.04.2023 | 24 | Рекомендательные системы ч.2 | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2022spring/PZAD071_RecSys_202201a____.pdf) |¯\\\_(ツ)\_/¯ | Частичное обучение (09.04.2023) |
+| 10.04.2023 | 25 | <ul><li>Ранжирование</li><li>Нелинейное снижение размерности</li></ul> | <ul><li>[Слайды](https://github.com/Dyakonov/MSUML/blob/main/2022spring/ML105_range_202202a.pdf)</li><li>[Слайды](https://github.com/Dyakonov/MSUML/blob/main/2022-23new/ML093_USL_202202a_part_2.pdf)</li></ul> | ¯\\\_(ツ)\_/¯ | Контест (14.04.2023) |
+| 17.04.2023 | 26 | Обзор возможностей нейросетей | [Слайды](https://github.com/Dyakonov/MSUML/blob/main/2022spring/DL_1NN_03_nn_202201a.pdf) | ¯\\\_(ツ)\_/¯ |¯\\\_(ツ)\_/¯ |
 
 
 ### Осень
