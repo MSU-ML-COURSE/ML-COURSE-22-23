@@ -13,6 +13,11 @@
 | 28.02.2023 | 18 | Обучение без учителя: векторизация данных | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-22-23/blob/main/slides/msu23-vectorize.pdf) | Кластеризация (03.03.2023) |
 | 07.03.2023 | 19 | Байесовские латентные модели и тематическое моделирование | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-22-23/blob/main/slides/msu23-tm.pdf) | Тест №6 (10.03.2023) |
 | 14.03.2023 | 20 | Регуляризация в тематическом моделировании | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-22-23/blob/main/slides/msu23-tm2.pdf) | ¯\\\_(ツ)\_/¯ |
+| 21.03.2023 | 21 | Выявление аномалий и робастное обучение | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-22-23/blob/main/slides/msu23-outlier.pdf) | Градиентный бустинг (24.03.2023) |
+| 04.04.2023 | 22 | Рекомендательные системы и матричные разложения | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-22-23/blob/main/slides/msu23-rs-mf.pdf) | Частичное обучение (09.04.2023) |
+| 11.04.2023 | 23 | Обучение ранжированию | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-22-23/blob/main/slides/msu23-ranking.pdf) | Контест (14.04.2023) |
+| 18.04.2023 | 24 | Активное обучение | [Слайды](https://github.com/MSU-ML-COURSE/ML-COURSE-22-23/blob/main/slides/msu23-active.pdf) | ¯\\\_(ツ)\_/¯ |
+
 
 ### Осень
 
